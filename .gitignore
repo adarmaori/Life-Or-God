@@ -1,0 +1,4 @@
+/venv/
+/.idea/
+model.h5
+*.mov
